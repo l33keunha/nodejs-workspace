@@ -1,0 +1,7 @@
+{
+    "singleQuote": true, = '' 홑따옴표라면 " "쌍타옴표로 자동 바꿈
+    "semi": true, = 세미콜론 자동으로 붙이기
+    "tabWidth": 2, = 들여쓰기는 탭 두개 분량
+    "trailingComma": "all", = 코드 끝날 때 콤마 붙이기
+    "printWidth": 80 = 한 줄에 코드 글자수는 80으로 맞춤
+}
